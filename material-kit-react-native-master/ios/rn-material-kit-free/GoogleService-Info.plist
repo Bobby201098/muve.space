@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>750242312783-491fcmcia2f2bfi5ou11p3frjhhkg3a8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.750242312783-491fcmcia2f2bfi5ou11p3frjhhkg3a8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUReKbZXFnHR9fHqdEGOzIek9w4osKGXA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>750242312783</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>muvespace</string>
+	<key>PROJECT_ID</key>
+	<string>muve-space</string>
+	<key>STORAGE_BUCKET</key>
+	<string>muve-space.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:750242312783:ios:b92bcc8a2a795d3f5d303a</string>
+	<key>DATABASE_URL</key>
+	<string>https://muve-space.firebaseio.com</string>
+</dict>
+</plist>
